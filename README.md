@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Joshluk3328j
+- 👀 I’m interested in python, web development and Artificial Intelligence
+- 🌱 I’m currently learning python.
+- 📫 How to reach me babatundejoseph46810@gmail.com
